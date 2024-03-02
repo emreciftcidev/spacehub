@@ -1,0 +1,65 @@
+name: uzay_bilgi_kartlari
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  url_launcher: ^6.0.9
+  smooth_page_indicator: ^1.1.0
+  flutter_local_notifications: ^8.1.1+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  ios: true
+  image_path: "lib/assets/images/ic_launcher.png" 
+  
+flutter_icons:
+  android: "launcher_icon" 
+  image_path: "lib/assets/images/ic_launcher.png" 
+
+flutter:
+  uses-material-design: true
+  assets:
+  - lib/assets/images/background.jpeg
+  - lib/assets/images/alper_gezeravcı.jpg
+  - lib/assets/data/cards_info.json
+  - lib/assets/images/dünya111.gif
+  - lib/assets/images/mars111.gif
+  - lib/assets/images/merkür111.gif
+  - lib/assets/images/venüs111.gif
+  - lib/assets/images/jüpiter111.gif
+  - lib/assets/images/satürn111.gif
+  - lib/assets/images/uranüs111.gif
+  - lib/assets/images/neptün111.gif
+  - lib/assets/images/ic_launcher.png
+  - lib/assets/images/emre_ciftci.jpg
+  - lib/assets/images/health.png
+  - lib/assets/images/chat.png
+  - lib/assets/images/planets.png
+  - lib/assets/images/mission.png
+  - lib/assets/images/axiom.png
+  - lib/assets/images/günlük.png
+  - lib/assets/images/gündem.png
+  - lib/assets/images/gezegen.png
+  - lib/assets/images/bot.png
+  - lib/assets/images/profil.png
+  fonts:
+    - family: MyFontFamily
+      fonts:
+        - asset: lib/fonts/Orbitron-Medium.ttf
+        - weight: 700
+
+
+
+          

@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Mars",
+      "description": "Kızıl Gezegen",
+      "info": "Mars, dikkat çekici bir gezegen olarak bilinir. Yüzeyinde devasa vadiler ve Olympus Mons gibi en yüksek dağlar bulunur. Geçmişte suyun varlığına dair kanıtlar bulunmuş, bu da yaşamın olabileceği fikrini güçlendirmiştir. Mars'a olan ilgi, insanlığın keşif arzusu ve teknolojik ilerlemelerle birleşerek artmaktadır. Elon Musk gibi girişimciler ve NASA gibi uzay ajansları, Mars'a insan gönderme ve gezegeni kolonileştirme projeleri üzerinde çalışmaktadır. Kısacası, Mars sadece bir gezegen değil, aynı zamanda insanlığın keşif ve bilimsel merakını harekete geçiren bir hedeftir. Gelecekte, Mars'a yapılan keşiflerin ve insanlığın ilgisinin daha da artması beklenmektedir.",
+      "imageUrl": "lib/assets/images/mars111.gif"
+    },
+    {
+      "title": "Merkür",
+      "description": "Güneşe en yakın gezegen.",
+      "info": "Merkür, Güneş Sistemi'ndeki en küçük gezegendir ve Güneş'e en yakın olanıdır. Yüzeyinde büyük kraterler, dağlar ve düz ovalar bulunur. Güneş'e bu kadar yakın olması nedeniyle yüzey sıcaklıkları aşırı derecede değişkendir, gündüzleri çok sıcakken geceleri çok soğuk olabilir. Atmosferi çok incedir ve gezegenin yüzeyini korumakta yetersizdir. Merkür, yüzeyinde su izleri bulunmayan ve yaşamın var olması için uygun olmayan bir gezegendir. Ancak, bu gezegenin Güneş Sistemi'nin oluşumu ve evrimi hakkında önemli bilgiler sağlayabileceği düşünülmektedir..",
+      "imageUrl": "lib/assets/images/merkür111.gif"
+    },
+    {
+      "title": "Venüs",
+      "description": "Çoban Yıldızı.",
+      "info": "Venüs, kalın bir karbondioksit atmosferine sahip, yüksek sıcaklıklara ve volkanik aktiviteye sahip bir gezegendir. Bulut örtüsü yüzey gözlemlerini zorlaştırır. Geçmişte su izleri bulunmuş olsa da, günümüzde suyunun tamamının buharlaştığı düşünülmektedir. Venüs, Güneş Sistemi'nin evrimini anlamak ve gezegen dışı yaşam arayışında önemli bir role sahiptir.",
+      "imageUrl": "lib/assets/images/venüs111.gif"
+    },
+    {
+      "title": "Jüpiter",
+      "description": "Güneş Sistemi’ndeki en büyük gezegendir.",
+      "info": "Jüpiter, Güneş Sistemi'nin en büyük gezegenidir ve etkileyici birçok özelliğe sahiptir. Devasa kırmızı leke gibi fırtınaları, renkli bantları ve güçlü manyetik alanıyla dikkat çeker. Europa gibi uyduları, yaşamın var olabileceği potansiyel bir ortam sunabilir. Jüpiter, Güneş Sistemi'nin evrimi hakkında önemli ipuçları sağlar ve uzay araştırmalarının merkezinde yer alır.",
+      "imageUrl": "lib/assets/images/jüpiter111.gif"
+    },
+    {
+      "title": "Satürn",
+      "description": "Eski Türkçe dilinde Sekentir olarak bilinen en büyük gezegendir.",
+      "info": "Satürn, Güneş Sistemi'ndeki altıncı gezegendir ve etkileyici halkalarıyla ünlüdür. Büyük ölçüde hidrojen ve helyumdan oluşan bir atmosfere sahiptir. Ancak, en dikkat çekici özelliği, gezegenin etrafını saran ve yüzlerce halka parçasından oluşan muhteşem halka sistemiyle bilinir. Bu halkalar, buz parçacıkları, taşlar ve tozun bir araya gelmesiyle oluşur. Satürn'ün uyduları da dikkat çekicidir; en büyük uydusu olan Titan, yoğun bir atmosfere ve yeraltı okyanuslarına sahiptir ve potansiyel olarak yaşam barındırabilecek bir ortam oluşturabilir. Satürn, bilim insanlarının ilgisini çeken eşsiz özellikleri ve gezegenin halkalarıyla tanınan güzelliğiyle Güneş Sistemi'nin önemli bir parçasıdır.",
+      "imageUrl": "lib/assets/images/satürn111.gif"
+    },
+    {
+      "title": "Uranüs",
+      "description": "Adını Yunan mitolojisindeki gökyüzü tanrısı Uranos'tan alan gezegendir.",
+      "info": "Üranüs, Güneş Sistemi'ndeki sekizinci gezegendir ve yatay bir eksen etrafında döner, bu da onu yan duran bir gezegen yapar. Atmosferi hidrojen, helyum ve metan gibi gazlarla kaplıdır ve bu metan, gezegenin mavisimsi rengini oluşturur. Manyetik alanı diğer gezegenlerinkinden farklıdır. Uyduları arasında Titania, Oberon ve Miranda gibi önemli olanlar bulunur. Üranüs, bilim insanlarının ilgisini çeken sıra dışı özellikleriyle Güneş Sistemi'nin uzak ve az bilinen bir gezegenidir.",
+      "imageUrl": "lib/assets/images/uranüs111.gif"
+    },
+    {
+      "title": "Neptün",
+      "description": "Güneş’e en uzak ve katı yüzeyi bulunmayan gezegenidir.",
+      "info": "Neptün, Güneş Sistemi'ndeki sekizinci ve en uzak gezegendir. Büyük ölçüde hidrojen ve helyumdan oluşan bir atmosfere sahiptir. Mavi renkli görüntüsünü atmosferinde bulunan metan gazı oluşturur. Neptün, Güneş Sistemi'ndeki en güçlü rüzgarlara sahip olan gezegendir ve devasa fırtınalarıyla ünlüdür. Büyük Kara Leke, bu fırtınalardan biridir ve Güneş Sistemi'ndeki en güçlü rüzgarlarla ilişkilendirilir. Neptün'ün uyduları arasında Triton önemlidir; geriye doğru dönen bir yörüngede hareket eder ve olası bir yakalanan cüce gezegenin uydusu olabilir. Neptün, ilginç atmosferik özellikleri ve gizemli büyüsüyle bilim insanlarının ilgisini çeker ve Güneş Sistemi'nin derinliklerindeki sırları keşfetmek için önemli bir araştırma konusudur.",
+      "imageUrl": "lib/assets/images/neptün111.gif"
+    },
+    {
+      "title": "Dünya",
+      "description": "Şu an için üzerinde yaşam ve sıvı su barındırdığı kesin olarak bilinen tek astronomik cisimdir.",
+      "info": "Dünya, Güneş Sistemi'ndeki üçüncü gezegen ve insanlık için tek bilinen yaşamın bulunduğu yerdir. Mavi renkli atmosferi ve suyla kaplı yüzeyiyle dikkat çeker. Atmosferi, yaşamın devamı için gerekli olan oksijen ve azot gibi gazları içerir. Dünya, diğer gezegenlere kıyasla oldukça konuksever bir ortama sahiptir ve birçok farklı yaşam formunu barındırır. Kara ve denizler, çeşitli ekosistemlere ev sahipliği yapar ve biyolojik çeşitliliğin zengin olduğu bir gezegendir. Ayrıca, Dünya'daki iklim sistemleri ve doğal süreçler, gezegenin ekolojik dengesini korur ve yaşamın devamlılığını sağlar. Dünya, insanlık için evimizdir ve yaşamın tüm çeşitliliğine ev sahipliği yapar.",
+      "imageUrl": "lib/assets/images/dünya111.gif"
+    }
+  ]
+  
